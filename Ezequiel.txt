@@ -1,0 +1,9 @@
+Buenas Ezequiel, te paso a comentar algunos inconvenientes que se presentaron.
+ Cualquier inquietud o consulta que tengas espero una respuesta por mail.
+
+-Lamentablemente no pude dejar los botones de reproducción 
+  iguales al de la página original.
+
+-Los botones "Testeador x" al parecer estan bug, para solucionarlo
+  vas dentro del <Router> y en el link1 cambiar el className='btn' 
+   a className= para que de error y luego poner 'btn'.
